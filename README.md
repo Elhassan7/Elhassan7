@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @El_hassan 
+- 👋 Hi, I’m CHAKOUKI EL HASSAN
 - 👀 I’m interested in Ai and dev
-- 🌱 I’m currently learning Ai
+- 🌱 I’m currently learning about data engineer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
