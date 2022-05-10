@@ -2,7 +2,7 @@
 <h3 align="center">Data Engineering Student at INPT Rabat</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefjeh&label=Profile%20views&color=0e75b6&style=flat" alt="youssefjeh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Elhassan7&label=Profile%20views&color=0e75b6&style=flat" alt="Elhassan7" /> </p>
 
 - 🔭 I’m currently working on **Recommendation System using Deep Learning**
 
