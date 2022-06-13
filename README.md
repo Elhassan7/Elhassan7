@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 | I'm CHAKOUKI El hassan</h1>
+<h1 align="center">Hi 👋 || I'm CHAKOUKI El hassan</h1>
 <h3 align="center">Data Engineering Student at INPT Rabat</h3>
 
 
