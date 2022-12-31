@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Elhassan7&label=Profile%20views&color=0e75b6&style=flat" alt="Elhassan7" /> </p>
 
-- 🔭 I’m currently working on **Recommendation System using Deep Learning**
+- 🔭 I’m currently working on **Data Engineering using the solution offered by cloud computing provider**
 
 - 🌱 I’m currently learning **Machine learning,Deep Learning & Data vizualisation**
 
