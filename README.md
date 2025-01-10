@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋 I'm CHAKOUKI El hassan </h1>
-<h3 align="center">Data Engineering Student at INPT Rabat</h3>
+<h3 align="center">Data Engineering from INPT Rabat (Promo 2023) </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Elhassan7&label=Profile%20views&color=0e75b6&style=flat" alt="Elhassan7" /> </p>
